@@ -90,17 +90,19 @@ Parameters:
 - View connected users list
 
 ## Project Structure
-project/
-├── out/
-│ └── artifacts/
-│ ├── client_jar/
-│ │ └── client.jar
-│ └── server_jar/
-│ └── server.jar
-├── src/
-│ ├── client/
-│ ├── remote/
-│ └── server/
+project/  
+│
+├── out/  
+│   └── artifacts/  
+│       ├── client_jar/  
+│       │   └── client.jar  
+│       └── server_jar/  
+│           └── server.jar  
+│
+├── src/  
+│   ├── client/  
+│   ├── remote/  
+│   └── server/  
 
 
 ## Communication Protocol
